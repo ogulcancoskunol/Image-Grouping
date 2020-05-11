@@ -1,0 +1,2 @@
+pip install streamlit
+streamlit run tsne_featurep_generator.py
